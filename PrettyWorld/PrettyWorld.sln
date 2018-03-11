@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrettyWorld", "PrettyWorld.csproj", "{24DCC0BA-4A5E-3E69-5BF4-E5A25B28E586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrettyWorld.Editor", "PrettyWorld.Editor.csproj", "{3DB03331-87B5-EB01-A3D4-CFE44E633A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24DCC0BA-4A5E-3E69-5BF4-E5A25B28E586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DCC0BA-4A5E-3E69-5BF4-E5A25B28E586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DCC0BA-4A5E-3E69-5BF4-E5A25B28E586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DCC0BA-4A5E-3E69-5BF4-E5A25B28E586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB03331-87B5-EB01-A3D4-CFE44E633A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB03331-87B5-EB01-A3D4-CFE44E633A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB03331-87B5-EB01-A3D4-CFE44E633A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB03331-87B5-EB01-A3D4-CFE44E633A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
