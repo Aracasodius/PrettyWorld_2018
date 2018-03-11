@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -137,11 +137,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 150244357}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 010c78239f095374fafb549e43bc64c6, type: 3}
+  m_Script: {fileID: 11500000, guid: 7faf8305f061f7546b5835a2766d3348, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _ipAddress: 127.0.0.1
-  _port: 4379
+  _ipAddress: 
+  _port: 0
 --- !u!4 &150244359
 Transform:
   m_ObjectHideFlags: 0
@@ -373,8 +373,8 @@ Canvas:
   m_GameObject: {fileID: 234681149}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 1
+  m_Camera: {fileID: 209963469}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1

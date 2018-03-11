@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: a7f3db5d62650b2489b4dbeffe49db69
+timeCreated: 1520784561
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AcaciaLOD0
+    100002: AcaciaLOD1
+    100004: AcaciaLOD2
+    100006: //RootNode
+    100008: BranchLOD0
+    100010: BranchLOD1
+    100012: BranchLOD2
+    100014: Bush1LOD0
+    100016: Bush1LOD1
+    100018: Bush1LOD2
+    100020: GrassALOD0
+    100022: GrassALOD1
+    100024: GrassALOD2
+    100026: RedFlowerLOD0
+    100028: RedFlowerLOD1
+    100030: RedFlowerLOD2
+    100032: ShroomGreyLOD0
+    100034: ShroomGreyLOD1
+    100036: ShroomGreyLOD2
+    100038: ShroomRedLOD0
+    100040: ShroomRedLOD1
+    100042: ShroomRedLOD2
+    100044: StickLOD0
+    100046: StickLOD1
+    100048: StickLOD2
+    100050: ThornLOD0
+    100052: ThornLOD1
+    100054: ThornLOD2
+    100056: WillowLOD0
+    100058: WillowLOD1
+    100060: WillowLOD2
+    400000: AcaciaLOD0
+    400002: AcaciaLOD1
+    400004: AcaciaLOD2
+    400006: //RootNode
+    400008: BranchLOD0
+    400010: BranchLOD1
+    400012: BranchLOD2
+    400014: Bush1LOD0
+    400016: Bush1LOD1
+    400018: Bush1LOD2
+    400020: GrassALOD0
+    400022: GrassALOD1
+    400024: GrassALOD2
+    400026: RedFlowerLOD0
+    400028: RedFlowerLOD1
+    400030: RedFlowerLOD2
+    400032: ShroomGreyLOD0
+    400034: ShroomGreyLOD1
+    400036: ShroomGreyLOD2
+    400038: ShroomRedLOD0
+    400040: ShroomRedLOD1
+    400042: ShroomRedLOD2
+    400044: StickLOD0
+    400046: StickLOD1
+    400048: StickLOD2
+    400050: ThornLOD0
+    400052: ThornLOD1
+    400054: ThornLOD2
+    400056: WillowLOD0
+    400058: WillowLOD1
+    400060: WillowLOD2
+    2100000: Leaves
+    2100002: Stem
+    2100004: Wood
+    2100006: Rose
+    2100008: Thorn
+    2100010: ShroomStem
+    2100012: ShroomGray
+    2100014: ShroomRed
+    2300000: AcaciaLOD0
+    2300002: AcaciaLOD1
+    2300004: AcaciaLOD2
+    2300006: BranchLOD0
+    2300008: BranchLOD1
+    2300010: BranchLOD2
+    2300012: Bush1LOD0
+    2300014: Bush1LOD1
+    2300016: Bush1LOD2
+    2300018: GrassALOD0
+    2300020: GrassALOD1
+    2300022: GrassALOD2
+    2300024: RedFlowerLOD0
+    2300026: RedFlowerLOD1
+    2300028: RedFlowerLOD2
+    2300030: ShroomGreyLOD0
+    2300032: ShroomGreyLOD1
+    2300034: ShroomGreyLOD2
+    2300036: ShroomRedLOD0
+    2300038: ShroomRedLOD1
+    2300040: ShroomRedLOD2
+    2300042: StickLOD0
+    2300044: StickLOD1
+    2300046: StickLOD2
+    2300048: ThornLOD0
+    2300050: ThornLOD1
+    2300052: ThornLOD2
+    2300054: WillowLOD0
+    2300056: WillowLOD1
+    2300058: WillowLOD2
+    3300000: AcaciaLOD0
+    3300002: AcaciaLOD1
+    3300004: AcaciaLOD2
+    3300006: BranchLOD0
+    3300008: BranchLOD1
+    3300010: BranchLOD2
+    3300012: Bush1LOD0
+    3300014: Bush1LOD1
+    3300016: Bush1LOD2
+    3300018: GrassALOD0
+    3300020: GrassALOD1
+    3300022: GrassALOD2
+    3300024: RedFlowerLOD0
+    3300026: RedFlowerLOD1
+    3300028: RedFlowerLOD2
+    3300030: ShroomGreyLOD0
+    3300032: ShroomGreyLOD1
+    3300034: ShroomGreyLOD2
+    3300036: ShroomRedLOD0
+    3300038: ShroomRedLOD1
+    3300040: ShroomRedLOD2
+    3300042: StickLOD0
+    3300044: StickLOD1
+    3300046: StickLOD2
+    3300048: ThornLOD0
+    3300050: ThornLOD1
+    3300052: ThornLOD2
+    3300054: WillowLOD0
+    3300056: WillowLOD1
+    3300058: WillowLOD2
+    4300000: Bush1LOD2
+    4300002: Bush1LOD1
+    4300004: Bush1LOD0
+    4300006: BranchLOD2
+    4300008: BranchLOD1
+    4300010: StickLOD2
+    4300012: StickLOD1
+    4300014: BranchLOD0
+    4300016: StickLOD0
+    4300018: RedFlowerLOD2
+    4300020: RedFlowerLOD1
+    4300022: RedFlowerLOD0
+    4300024: ThornLOD2
+    4300026: ThornLOD0
+    4300028: ThornLOD1
+    4300030: GrassALOD2
+    4300032: GrassALOD1
+    4300034: GrassALOD0
+    4300036: ShroomGreyLOD2
+    4300038: ShroomGreyLOD1
+    4300040: ShroomGreyLOD0
+    4300042: ShroomRedLOD2
+    4300044: ShroomRedLOD1
+    4300046: ShroomRedLOD0
+    4300048: AcaciaLOD2
+    4300050: AcaciaLOD1
+    4300052: AcaciaLOD0
+    4300054: WillowLOD1
+    4300056: WillowLOD0
+    4300058: WillowLOD2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
